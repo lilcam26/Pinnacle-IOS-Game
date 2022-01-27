@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: ba75b6f14b2239a46a293bc5d507715d
+timeCreated: 1538777383
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: GOAT_
+    100004: GOAT_ Head
+    100006: GOAT_ L Calf
+    100008: GOAT_ L Clavicle
+    100010: GOAT_ L Finger0
+    100012: GOAT_ L Foot
+    100014: GOAT_ L Forearm
+    100016: GOAT_ L Hand
+    100018: GOAT_ L HorseLink
+    100020: GOAT_ L Thigh
+    100022: GOAT_ L UpperArm
+    100024: GOAT_ Neck
+    100026: GOAT_ Neck1
+    100028: GOAT_ Neck2
+    100030: GOAT_ Pelvis
+    100032: GOAT_ Queue de cheval 1
+    100034: GOAT_ R Calf
+    100036: GOAT_ R Clavicle
+    100038: GOAT_ R Finger0
+    100040: GOAT_ R Foot
+    100042: GOAT_ R Forearm
+    100044: GOAT_ R Hand
+    100046: GOAT_ R HorseLink
+    100048: GOAT_ R Thigh
+    100050: GOAT_ R UpperArm
+    100052: GOAT_ Spine
+    100054: GOAT_ Spine1
+    100056: GOAT_ Tail
+    100058: GOAT_ Tail1
+    100060: GOAT_ Tail2
+    100062: goaty_1
+    100064: goaty_2
+    100066: goaty_3
+    100068: root
+    100070: WattleL
+    100072: WattleR
+    400000: //RootNode
+    400002: GOAT_
+    400004: GOAT_ Head
+    400006: GOAT_ L Calf
+    400008: GOAT_ L Clavicle
+    400010: GOAT_ L Finger0
+    400012: GOAT_ L Foot
+    400014: GOAT_ L Forearm
+    400016: GOAT_ L Hand
+    400018: GOAT_ L HorseLink
+    400020: GOAT_ L Thigh
+    400022: GOAT_ L UpperArm
+    400024: GOAT_ Neck
+    400026: GOAT_ Neck1
+    400028: GOAT_ Neck2
+    400030: GOAT_ Pelvis
+    400032: GOAT_ Queue de cheval 1
+    400034: GOAT_ R Calf
+    400036: GOAT_ R Clavicle
+    400038: GOAT_ R Finger0
+    400040: GOAT_ R Foot
+    400042: GOAT_ R Forearm
+    400044: GOAT_ R Hand
+    400046: GOAT_ R HorseLink
+    400048: GOAT_ R Thigh
+    400050: GOAT_ R UpperArm
+    400052: GOAT_ Spine
+    400054: GOAT_ Spine1
+    400056: GOAT_ Tail
+    400058: GOAT_ Tail1
+    400060: GOAT_ Tail2
+    400062: goaty_1
+    400064: goaty_2
+    400066: goaty_3
+    400068: root
+    400070: WattleL
+    400072: WattleR
+    7400000: walkTurnL
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walkTurnL
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/GOAT_
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ L Thigh
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ L Thigh/GOAT_ L Calf
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ L Thigh/GOAT_ L Calf/GOAT_
+          L HorseLink
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ L Thigh/GOAT_ L Calf/GOAT_
+          L HorseLink/GOAT_ L Foot
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ R Thigh
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ R Thigh/GOAT_ R Calf
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ R Thigh/GOAT_ R Calf/GOAT_
+          R HorseLink
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ R Thigh/GOAT_ R Calf/GOAT_
+          R HorseLink/GOAT_ R Foot
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ Spine1
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ Spine1/GOAT_ L Clavicle
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ Spine1/GOAT_ L Clavicle/GOAT_
+          L UpperArm
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ Spine1/GOAT_ L Clavicle/GOAT_
+          L UpperArm/GOAT_ L Forearm
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ Spine1/GOAT_ L Clavicle/GOAT_
+          L UpperArm/GOAT_ L Forearm/GOAT_ L Hand
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ Spine1/GOAT_ L Clavicle/GOAT_
+          L UpperArm/GOAT_ L Forearm/GOAT_ L Hand/GOAT_ L Finger0
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ Spine1/GOAT_ Neck
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ Spine1/GOAT_ Neck/GOAT_ Neck1
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ Spine1/GOAT_ Neck/GOAT_ Neck1/GOAT_
+          Neck2
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ Spine1/GOAT_ Neck/GOAT_ Neck1/GOAT_
+          Neck2/GOAT_ Head
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ Spine1/GOAT_ Neck/GOAT_ Neck1/GOAT_
+          Neck2/GOAT_ Head/GOAT_ Queue de cheval 1
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ Spine1/GOAT_ Neck/GOAT_ Neck1/GOAT_
+          Neck2/GOAT_ Head/GOAT_ Queue de cheval 1/goaty_1
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ Spine1/GOAT_ Neck/GOAT_ Neck1/GOAT_
+          Neck2/GOAT_ Head/GOAT_ Queue de cheval 1/goaty_1/goaty_2
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ Spine1/GOAT_ Neck/GOAT_ Neck1/GOAT_
+          Neck2/GOAT_ Head/GOAT_ Queue de cheval 1/goaty_1/goaty_2/goaty_3
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ Spine1/GOAT_ Neck/GOAT_ Neck1/GOAT_
+          Neck2/WattleL
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ Spine1/GOAT_ Neck/GOAT_ Neck1/GOAT_
+          Neck2/WattleR
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ Spine1/GOAT_ R Clavicle
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ Spine1/GOAT_ R Clavicle/GOAT_
+          R UpperArm
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ Spine1/GOAT_ R Clavicle/GOAT_
+          R UpperArm/GOAT_ R Forearm
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ Spine1/GOAT_ R Clavicle/GOAT_
+          R UpperArm/GOAT_ R Forearm/GOAT_ R Hand
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Spine/GOAT_ Spine1/GOAT_ R Clavicle/GOAT_
+          R UpperArm/GOAT_ R Forearm/GOAT_ R Hand/GOAT_ R Finger0
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Tail
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Tail/GOAT_ Tail1
+        weight: 1
+      - path: root/GOAT_/GOAT_ Pelvis/GOAT_ Tail/GOAT_ Tail1/GOAT_ Tail2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: root
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: a5c0a31cdcff2af44bc6a503931e12ba,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
